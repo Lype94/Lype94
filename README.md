@@ -2,13 +2,11 @@
 
 <p align="center">The internet is a powerful source for expanding possibilities for positive change. And I'm here as a developer to contribute to that.</p>
 
-<div width=100%>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lype94&theme=dark)
-</div>
-<div>
-<span width=50%>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lype94&theme=dark)</span>
-<span width=50%>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lype94&theme=dark)</span>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lype94&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lype94&theme=dark)
+
 
 ## My Skills
 
