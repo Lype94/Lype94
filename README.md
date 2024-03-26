@@ -68,5 +68,5 @@
 
 &nbsp;
 &nbsp;
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&reversal=false&color=ccc&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&reversal=false&color=ccc&height=120&section=footer"/>
 
