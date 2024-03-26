@@ -5,3 +5,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lype94&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lype94&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lype94&theme=dark)
+
+The internet is a powerful source for expanding possibilities for positive change. And I'm here as a developer to contribute to that.
