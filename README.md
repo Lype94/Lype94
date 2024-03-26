@@ -56,7 +56,8 @@
 
 
 ## Contacts:
-&nbsp;
-&nbsp;
 <a href="https://www.linkedin.com/in/felipe-moreira-da-luz-4971b816b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 <a href="https://certification.acquia.com/user/14016" target="_blank"><img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white" target="_blank"/> </a>
+
+&nbsp;
+&nbsp;
