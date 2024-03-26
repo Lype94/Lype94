@@ -65,3 +65,8 @@
 &nbsp;
 ## Certifications:
 <a href="https://certification.acquia.com/user/14016" target="_blank"><img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white" target="_blank"/> </a>
+
+&nbsp;
+&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&reversal=false&color=ccc&height=120&section=footer"/>
+
